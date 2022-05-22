@@ -33,3 +33,10 @@ Click the link to open the application -> [Link for Hosted Quiz App](https://eph
 The application has is been included with tests and the components are been run with the <b>tests</b>. The snapshots of the tests are been uploaded in the <b> SnapShots </b> folder above.
 
 <b>_Some of the SnapShots are as follows_</b>
+![Screenshot (104)](https://user-images.githubusercontent.com/72604642/169697192-76594f53-b36e-43e8-bb89-91b2329b0c7d.png)
+
+![Screenshot 2022-05-22 185022](https://user-images.githubusercontent.com/72604642/169697208-8e16c710-f2aa-4ab9-aeca-01934e6755ab.jpg)
+
+
+
+![Screenshot 2022-05-22 182913](https://user-images.githubusercontent.com/72604642/169697216-37c0c657-f79b-41ec-b709-9fad8a0e486d.jpg)
