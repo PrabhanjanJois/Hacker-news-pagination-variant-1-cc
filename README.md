@@ -9,6 +9,8 @@ Have deployed this application in <b> Netlify </b>
 Click the link to open the application -> [Link for Hacker news App](https://ephemeral-beijinho-cc775e.netlify.app/)
 \
 \
+Variant 2 git repo link -> [Infinte Scroller ](https://github.com/PrabhanjanJois/Hacker-news-infinte-scroll-variant-2-cc)
+\
 <b>_This News app Displays Info_</b>
 * Title.
 * Url.
