@@ -34,6 +34,7 @@ The application has is been included with tests and the components are been run 
 
 <b>_Some of the SnapShots are as follows_</b>
 \
+\
 <b>_Pic 1: Interface of Hacker News_</b>
 ![Screenshot (104)](https://user-images.githubusercontent.com/72604642/169697192-76594f53-b36e-43e8-bb89-91b2329b0c7d.png)
 <b>_Pic 2: Pagination Interface_</b>
