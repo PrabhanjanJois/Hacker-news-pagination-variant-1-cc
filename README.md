@@ -1,18 +1,33 @@
-# HackerNews
+# Assignment-3 Variant-1.
+## Hacker News with Pagination. 
 
-Pulls latests stories of HackerNews with Algolia API and renders in a table.
+Hacker news application was given has the 3rd Assignment. I tried building on top of the existing application which was been taught while traning but faced some issues. So built a new app with minimal design. My main focus was on Unit testing and Pagination.
+\
+\
+Have deployed this application in <b> Netlify </b>
+\
+Click the link to open the application -> [Link for Hosted Quiz App](https://ephemeral-beijinho-cc775e.netlify.app/)
+\
+\
+<b>_This News app Displays Info_</b>
+* Title.
+* Url.
+* Created At. 
+* Author.
+* Page Numbers At bottom.
 
-### Available Scripts
+<b>_Built using:_</b>
+* Nextjs(React)
+* TypeScript
+* Material UI
+* Algolia API -> [Know More](https://www.algolia.com/doc/rest-api/search/)
+* Pagination -> [Know More](https://mui.com/material-ui/react-pagination/)
 
-### `yarn start`
+<b>_INSTALLATION/STEP-UP STEPS_:</b>
+  * Install React in your Device.
+  * Download the zip file of the project and extract.
+  * Open in vs-code or other editor and choose the extracted file.
+  * Run <b>npm install</b> in terminal (node modules will get installed).
+  * Run <b>npm start</b> in terminal.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
+\
