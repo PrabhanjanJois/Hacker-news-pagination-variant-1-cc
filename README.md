@@ -6,7 +6,7 @@ Hacker news application was given has the 3rd Assignment. I tried building on to
 \
 Have deployed this application in <b> Netlify </b>
 \
-Click the link to open the application -> [Link for Hosted Quiz App](https://ephemeral-beijinho-cc775e.netlify.app/)
+Click the link to open the application -> [Link for Hacker news App](https://ephemeral-beijinho-cc775e.netlify.app/)
 \
 \
 <b>_This News app Displays Info_</b>
