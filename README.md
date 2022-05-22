@@ -31,3 +31,5 @@ Click the link to open the application -> [Link for Hosted Quiz App](https://eph
   * Run <b>npm start</b> in terminal.
 
 \
+
+The application has is been included with tests and the components are been run with the <b>tests</b>. The snapshots of the tests are been uploaded in the <b> SnapShots </b> folder above.
